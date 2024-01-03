@@ -1,0 +1,2 @@
+# ActivityIcons
+ActivityIcons.plugin
